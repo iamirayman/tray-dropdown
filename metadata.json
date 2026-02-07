@@ -1,0 +1,8 @@
+{
+  "uuid": "tray-dropdown@amir",
+  "name": "Tray Dropdown Menu",
+  "description": "Windows 11 style tray manager for GNOME 49.",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "url": "https://github.com/amir/tray-dropdown",
+  "version": 1.1
+}
