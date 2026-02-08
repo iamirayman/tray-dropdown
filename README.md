@@ -61,6 +61,45 @@ This extension would not exist without AI assistance.
 
 ---
 
+## 📦 Installation
+
+### 1️⃣ Install from GNOME Extensions
+
+You can install the extension directly from GNOME Extensions:
+
+🔗 **GNOME Extensions link:**
+👉 GNOME EXTENSIONS LINK
+
+(Once the extension is approved and published)
+
+---
+
+### 2️⃣ Install manually from GitHub
+
+You can also install the extension manually using the terminal.
+
+#### Step 1: Clone the repository
+```bash
+git clone <https://github.com/iamirayman/tray-dropdown.git>
+```
+### Step 2: Copy the extension to GNOME extensions directory
+
+```bash
+cp -r tray-dropdown/tray-dropdown@amir ~/.local/share/gnome-shell/extensions/
+```
+
+### Step 3: Restart GNOME Shell
+
+- **Xorg**: press `Alt + F2`, type `r`, then press Enter
+- **Wayland**: log out and log in again
+
+### Step 4: Enable the extension
+
+```bash
+gnome-extensions enable tray-dropdown@amir
+```
+---
+
 ## 🤝 Contributions
 
 Contributions, fixes, and improvements are **very welcome**.
