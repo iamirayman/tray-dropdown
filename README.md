@@ -80,12 +80,13 @@ You can also install the extension manually using the terminal.
 
 #### Step 1: Clone the repository
 ```bash
-git clone <https://github.com/iamirayman/tray-dropdown.git>
+git clone https://github.com/iamirayman/tray-dropdown.git
 ```
 ### Step 2: Copy the extension to GNOME extensions directory
 
 ```bash
 cp -r tray-dropdown/tray-dropdown@amir ~/.local/share/gnome-shell/extensions/
+
 ```
 
 ### Step 3: Restart GNOME Shell
@@ -97,6 +98,7 @@ cp -r tray-dropdown/tray-dropdown@amir ~/.local/share/gnome-shell/extensions/
 
 ```bash
 gnome-extensions enable tray-dropdown@amir
+
 ```
 ---
 
