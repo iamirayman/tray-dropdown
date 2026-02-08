@@ -80,7 +80,7 @@ You can also install the extension manually using the terminal.
 
 ### Step 1: Clone the repository to your local GNOME Shell extensions directory
 ```bash
-git clone https://github.com/iamirayman/tray-dropdown.gitgit clone https://github.com/iamirayman/tray-dropdown ~/.local/share/gnome-shell/extensions/tray-dropdown@amir
+git clone https://github.com/iamirayman/tray-dropdown ~/.local/share/gnome-shell/extensions/tray-dropdown@amir
 ```
 
 ### Step 2: Restart GNOME Shell
